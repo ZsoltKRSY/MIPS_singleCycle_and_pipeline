@@ -1,6 +1,6 @@
 # Single cycle and pipeline architecture MIPS processors
 ## Description
-VHDL code and schematics/tables for single cycle and pipeline implementation (5 stages) of the MIPS processor.\
+VHDL code and schematics/tables for **single cycle** and **pipeline** implementation (5 stages) of the MIPS processor.\
 Contains example program (+description) included in instruction memory.\
 
 ## Technical details
